@@ -21,7 +21,7 @@ Generar Índice en Markdown
 
 ### Negrilla
 
-** Frase en negrita **
+**Frase en negrita**
 
 ### Vinetas
 
