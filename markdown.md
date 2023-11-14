@@ -5,7 +5,11 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz 
 
 ## Tabla de contenido
 
-Generar Índice en Markdown 
+1. Contenido
+2. Contenido
+    * Contenido
+    * Contenido
+3. Contenido
 
 ### Titulos 
 
@@ -52,7 +56,9 @@ Salto de linea
 
 ### Insertar una linea de codigo
 
-``` system.out.print("Hola mundo") ``` 
+```java
+system.out.print("Hola mundo")
+``` 
 
 ### Insertar tablas
 
@@ -70,4 +76,3 @@ Salto de linea
 ### Otras referencias sobre Markdown
 
 [enlaces a referencias de markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "referencias")
-
